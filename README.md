@@ -1,5 +1,5 @@
 # Data-Analysis-Dashboard
-## This project contains an Excel Dashboard built using Microsoft Excel to analyze and visualize data. It uses charts, Pivot Tables, and formulas to convert raw data into clear insights and trends, helping users easily understand the dataset.
+This project contains an Excel Dashboard built using Microsoft Excel to analyze and visualize data. It uses charts, Pivot Tables, and formulas to convert raw data into clear insights and trends, helping users easily understand the dataset.
 ##Data-Analysis-Dashboard Project
 📊 Project Overview
 This project contains an interactive Excel Dashboard created to analyze and visualize data in a clear and easy-to-understand way. The dashboard uses Excel features such as charts, tables, and formulas to present insights from the dataset.
