@@ -6,7 +6,7 @@ This project contains an interactive Excel Dashboard created to analyze and visu
 The goal of this project is to demonstrate how Microsoft Excel can be used for data analysis and visualization to support better decision-making.
 ## Dataset used
 ## <a href="https://github.com/vaishnaviwaykar06/Dashboard/blob/main/Screenshot%202026-03-08%20134408.png">Dataset</a>
-
+## <a href="https://github.com/vaishnaviwaykar06/Dashboard/blob/main/Excel_dashboard.xlsx">Dataset</a>
 ________________________________________
 ✨ Features
 •	Interactive Excel Dashboard
